@@ -36,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riku-d/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/riku-d/LeetCode-Problems/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
