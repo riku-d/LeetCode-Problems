@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/riku-d/LeetCode-Problems/tree/master/0205-isomorphic-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/riku-d/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/riku-d/LeetCode-Problems/tree/master/1781-sum-of-beauty-of-all-substrings) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/riku-d/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riku-d/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/riku-d/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Dynamic Programming
 |  |
 | ------- |
