@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riku-d/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/riku-d/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/riku-d/LeetCode-Problems/tree/master/0148-sort-list) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
