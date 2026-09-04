@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riku-d/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/riku-d/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+| [3903-smallest-stable-index-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -103,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/riku-d/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [3875-construct-uniform-parity-array-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3903-smallest-stable-index-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 <!---LeetCode Topics End-->
