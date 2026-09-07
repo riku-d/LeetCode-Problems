@@ -43,11 +43,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/riku-d/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/riku-d/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/riku-d/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/riku-d/LeetCode-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0485-max-consecutive-ones](https://github.com/riku-d/LeetCode-Problems/tree/master/0485-max-consecutive-ones) |
+| [1004-max-consecutive-ones-iii](https://github.com/riku-d/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/riku-d/LeetCode-Problems/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3903-smallest-stable-index-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
@@ -109,6 +111,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/riku-d/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/riku-d/LeetCode-Problems/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/riku-d/LeetCode-Problems/tree/master/3904-smallest-stable-index-ii) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/riku-d/LeetCode-Problems/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
